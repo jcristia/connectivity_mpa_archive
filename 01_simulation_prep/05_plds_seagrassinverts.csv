@@ -1,0 +1,87 @@
+common,species,phylum,class,order,family,genus,congenor,pld_hours,pld_hours_reformat,pld_days
+Brittle star,Ophiopholis aculeata,Echinodermata,Ophiuroidea,Ophiurida,Ophiactidae,Ophiopholis,,1992-5184,3588,149.5
+Sea snail,Lacuna variegata,Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Lacuna,Lacuna marmorata- but all species the same,1344-4032,2688,112
+Sea snail,Lacuna vincta,Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Lacuna,,720-4320,2520,105
+Crab,Metacarcinus magister,Arthropoda,Malacostraca,Decapoda,Cancridae,Metacarcinus,Cancer is alternative genus name,1920,1920,80
+Sea snail,Alia carinata,Mollusca,Gastropoda,Neogastropoda,Columbellidae,Alia,,1440,1440,60
+Crab,Pugettia richii,Arthropoda,Malacostraca,Decapoda,Epialtidae,Pugettia,,1080-1272,1176,49
+Crab,Pinnixa faba,Arthropoda,Malacostraca,Decapoda,Pinnotheridae,Pinnixa,pinnixa sp.,1128,1128,47
+Hydrozoa - feathery,Obelia longissima,Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Obelia,obelia sp.,672-1224,948,39.5
+Shrimp,Crangon septemspinosa,Arthropoda,Malacostraca,Decapoda,Crangonidae,Crangon,,768-1104,936,39
+Crab,Lophopanopeus bellus,Arthropoda,Malacostraca,Decapoda,Panopeidae,Lophopanopeus,,840,840,35
+Sea snail,Nassarius mendicus,Mollusca,Gastropoda,Neogastropoda,Nassariidae,Nassarius,,672,672,28
+Crab,Pugettia gracilis,Arthropoda,Malacostraca,Decapoda,Epialtidae,Pugettia,,648,648,27
+Shrimp,heptacarpus,Arthropoda,Malacostraca,Decapoda,Thoridae,Heptacarpus,Heptacarpus sitchensis (pictus),648,648,27
+Polychaete,Platynereis bicanaliculata,Annelida,Polychaeta,Phyllodocida,Nereididae,Platynereis,,588,588,24.5
+Barnacle,Balanus crenatus,Arthropoda,Maxillopoda,Sessilia,Balanidae,Balanus,,504,504,21
+Barnacle,Balanus glandula,Arthropoda,Maxillopoda,Sessilia,Balanidae,Balanus,,504,504,21
+Limpet,Lottia alveus paralella,Mollusca,Gastropoda,Patellogastropoda,Lottiidae,Lottia,"Lottia pelta (all the same), proper name of L. alveus is L. paralella",504,504,21
+Sea snail,Haminoea virescens,Mollusca,Gastropoda,Cephalaspidea,Haminoeidae,Haminoea,,480,480,20
+Polychaete,Oxydromus pugettensis,Annelida,Polychaeta,Phyllodocida,Hesionidae,Oxydromus,different name: Ophiodromus pugettensis,240,240,10
+Polychaete,Nereis,Annelida,Polychaeta,phyllodocida,Nereididae,Nereis,Nereis pelagica,168,168,7
+Sea snail,Tegula pulligo,Mollusca,Gastropoda,Archaeogastropoda,Tegulidae,Tegula,,168,168,7
+Sea snail,calliostoma,Mollusca,Gastropoda,,,Calliostoma,Calliostoma annulatum BUT some others in genus might be different- check,168,168,7
+Sea snail,Margarites pupillus,Mollusca,Gastropoda,Archaeogastropoda,Margaritidae,Margarites,,96,96,4
+Mite,Halacaridae,Arthropoda,Arachnida,Trombidiformes,Halacaridae,,,72,72,3
+Polychaete,Lumbrineris japonica,Annelida,Polychaeta,Eunicida,Lumbrineridae,Lumbrineris,Lumbrineris inflata/ zonata,0,0,0
+Polychaete,Exogen sp.,Annelida,Polychaeta,Phyllodocida,Syllidae,Exogone sp.,,0,0,0
+Amphipod,Amphitoidae,Arthropoda,Malacostraca,Amphipoda,Amphitoidae,,,0,0,0
+Amphipod,Ampithoe lacertosa,Arthropoda,Malacostraca,Amphipoda,Ampithoidae,Ampithoe,,0,0,0
+Amphipod,Ampithoe valida,Arthropoda,Malacostraca,Amphipoda,Ampithoidae,Ampithoe,,0,0,0
+Amphipod,Aoroides intermedius,Arthropoda,Malacostraca,Amphipoda,Aoridae,Aoroides,,0,0,0
+Amphipod,Aoridae,Arthropoda,Malacostraca,Amphipoda,Aoridae,,,0,0,0
+Amphipod - caprellid,Caprella mutica,Arthropoda,malacostraca,Amphipoda,Caprellidae,Caprella,,0,0,0
+Amphipod - caprellid,Caprella californica,Arthropoda,Malacostraca,Amphipoda,Caprellidae,Caprella,,0,0,0
+Amphipod - caprellid,Caprella laeviuscula,Arthropoda,Malacostraca,Amphipoda,Caprellidae,Caprella,,0,0,0
+Amphipod - caprellid,Metacaprella kennerlyi,Arthropoda,Malacostraca,Amphipoda,Caprellidae,Metacaprella,,0,0,0
+Amphipod,Corophiidae,Arthropoda,Malacostraca,Amphipoda,Corophiidae,,,0,0,0
+Amphipod,Gammarid,Arthropoda,malacostraca,Amphipoda,gammarid,,,0,0,0
+Amphipod,Haustoriidae,Arthropoda,Malacostraca,Amphipoda,Haustoriidae,,,0,0,0
+Amphipod,Hyalidae,Arthropoda,Malacostraca,Amphipoda,Hyalidae,,,0,0,0
+Amphipod,Isaeidae,Arthropoda,Malacostraca,Amphipoda,Isaeidae,,,0,0,0
+Amphipod,Ischyrocerus anguipes,Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,Ischyrocerus,,0,0,0
+Amphipod,Photis bifurcata,Arthropoda,Malacostraca,Amphipoda,Photidae,Photis,,0,0,0
+Amphipod,Photidae,Arthropoda,Malacostraca,Amphipoda,Photidae,,,0,0,0
+Isopod,Idotea ochotnesis,Arthropoda,Malacostraca,Isopoda,Idoteidae,Idotea,,0,0,0
+Isopod,Idotea resecata,Arthropoda,Malacostraca,Isopoda,Idoteidae,Idotea,,0,0,0
+Isopod,Idotea wosnesenskii,Arthropoda,Malacostraca,Isopoda,Idoteidae,Idotea,,0,0,0
+Tanaid,Leptochelia dubia,Arthropoda,Malacostraca,Tanaidacea,Leptocheliidae,Leptochelia,Chondrochelia dubia,0,0,0
+Tanaid,Leptochelia savignyi,Arthropoda,Malacostraca,Tanaidacea,Leptocheliidae,Leptochelia,,0,0,0
+Ostracoda - seed shrimp,Euphilomedes carcharodonta,Arthropoda,Ostracoda,Myodocopida,Philomedidae,Euphilomedes,,0,0,0
+Arrow worm,Sagittoidea,Chaetognatha,Sagittoidea,,,,phylum chaetognatha for traits,0,0,0
+Anemone,Epiactis prolifera,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Epiactis,,0,0,0
+Anemone,Epiactis sp.,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Epiactis,Use Epistasis prolifera,0,0,0
+Stalked jelly,Haliclystus sanjuanensis,Cnidaria,Staurozoa,Stauromedusae,Lucernariidae,Haliclystus,haliclystus steinegeri,0,0,0
+Sea star,Lepasterias hexactis,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Lepasterias,,0,0,0
+Brittle star,Amphipholis sp. AAU6176,Echinodermata,Ophiuroidea,Ophiurida,Amphiuridae,Amphipholis,Amphipholis squamata,0,0,0
+Brittle star,Amphipholis squamata,Echinodermata,Ophiuroidea,Ophiurida,Amphiuridae,Amphipholis,,0,0,0
+Clam,nutricola,Mollusca,Bivalvia,Venerida,Veneridae,Nutricola,Nutricola tantilla (probably what this species is),0,0,0
+Sea snail,Margarites helicinus,Mollusca,Gastropoda,Archaeogastropoda,Margaritidae,Margarites,,0,0,0
+Sea snail,Lirularia succincta,Mollusca,Gastropoda,Archaeogastropoda,Trochidae,Lirularia,,0,0,0
+Sea snail,Bittium eschrichtii,Mollusca,gastropoda,caenogastropoda,Cerithiidae,Bittium,,0,0,0
+Sea snail,Amphissa columbiana,Mollusca,Gastropoda,Neogastropoda,Columbellidae,Amphissa,,0,0,0
+Sea snail,Mitrella tuberosa,Mollusca,Gastropoda,Neogastropoda,Columbellidae,Mitrella,Alia tuberosa= old name,0,0,0
+Sea snail,colus,Mollusca,Gastropoda,Neogastropoda,Buccinoidea,Colus,colus halimeris,0,0,0
+Sea snail,Alvania compacta,Mollusca,Gastropoda,Sorbeoconcha,Rissoidae,Alvania,,,,
+Barnacle,Balanus aquila,Arthropoda,Maxillopoda,Sessilia,Balanidae,Balanus,accepted name: Menesiniella aquila,,,
+Brittle star,Ampipholis pugetana,Echinodermata,Ophiuroidea,Ophiurida,Amphiuridae,Amphipholis,,,,
+Polychaete,Schistomeringos longicornis,Annelida,Polychaeta,Eunicida,Dorvilleidae,Schistomeringos,,,,
+Polychaete,Eulalia aviculiseta,Annelida,Polychaeta,Phyllodocida,Phyllodocidae,Eulalia,,,,
+Polychaete,Harmothoe imbricata CMC01,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,,
+Polychaete,Syllidae,Annelida,Polychaeta,Phyllodocida,Syllidae,,Syllis prolifera,,,
+Polychaete,Chone magna CMC02,Annelida,Polychaeta,Sabellida,Sabellidae,Chone,,,,
+Polychaete,Asabellides,Annelida,Polychaeta,Terebellida,Ampharetidae,Asabellides,,,,
+Copepod,Paracalanus parvus,Arthropoda,Hexanauplia,Calanoida,Paracalanidae,Paracalanus,,,,
+Copepod,porcellidium,Arthropoda,Hexanauplia,Harpacticoida,Porcellidiidae,Porcellidium,porcellidium dilatatum,,,
+Copepod,herpacticoida,Arthropoda,Hexanauplia,Harpacticoida,,,,,,
+Shrimp,Crangon alaskensis,Arthropoda,Malacostraca,Decapoda,Crangonidae,Crangon,,,,
+Crab,Mimulus foliatus,Arthropoda,Malacostraca,Decapoda,Epialtidae,Mimulus,,,,
+Isopod - crab parasite,Portunion conformis,Arthropoda,Malacostraca,Isopoda,Entoniscidae,Portunion,this is a crab parasite,,,
+Clam,Macoma inquinata,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,,,
+Sea snail,Lirobittium attenuatum,Mollusca,Gastropoda,Caenogastropoda,Cerithiidae,Lirobittium,,,,
+Sea snail,Granulina margaritula,Mollusca,Gastropoda,Neogastropoda,Marginellidae,Granulina,,,,
+Sea snail,Ocinebrina sp.,Mollusca,Gastropoda,Neogastropoda,Muricidae,Ocinebrina,,,,
+Nudibranch,Cadlina modesta,Mollusca,Gastropoda,Nudibranchia,Cadlinidae,Cadlina,Cadlina limbaughi,,,
+Sea snail,Homalopoma luridum,Mollusca,Gastropoda,Vetigastropoda,Colloniidae,Homalopoma,,,,
+Nematode,nematoda,Nematoda,,,,,,,,
+Ribbon worm,Ototyphlonemertes sp. 21,Nemertea,Enopla,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,,,,
